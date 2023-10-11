@@ -1,4 +1,4 @@
-- Hi, I’m Murat
+## Hi, I’m Murat
 - I’m currently learning data analysis and machine learning
 - You can reach me at muratuysal24@gmail.com
 - SQL-Python-PowerBI

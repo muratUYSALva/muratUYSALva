@@ -1,5 +1,6 @@
 ## Hi, I’m Murat
-- I’m currently learning data analysis and machine learning
+### I am THE Data Analyst
+- I’m currently studying machine learning
 - You can reach me at muratuysal24@gmail.com
 - SQL-Python-PowerBI
 
